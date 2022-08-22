@@ -1,0 +1,5 @@
+ Method Hiding/Shadowing:
+-An approach of re-implementing a parent class method under the child class with the same   signature.
+- Same as Method-OverRiding.
+-without permission
+-new-keyword is used in child class, not necessary. But to tell the compiler that willingly we are putting same name method.
